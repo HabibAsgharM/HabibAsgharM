@@ -12,16 +12,16 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par les systèmes et les r�
 
 ## 🚀 Compétences Techniques
 
-- **Systèmes d'exploitation**: Linux, Windows Server
-- **Réseaux**: Configuration de routeurs et de commutateurs, VPN, Pare-feu
-- **Automatisation**: Scripts Bash, Ansible, Puppet
-- **Sécurité**: Configurations de pare-feu, systèmes de détection d'intrusion, VPN
-- **Outils de Développement**: Git, Docker, Vagrant
+- **Systèmes d'exploitation** : Linux, Windows Server
+- **Réseaux** : Configuration de routeurs et de commutateurs, VPN, Pare-feu
+- **Automatisation** : Scripts Bash, Ansible, Puppet
+- **Sécurité** : Configurations de pare-feu, systèmes de détection d'intrusion, VPN
+- **Outils de Développement** : Git, Docker, Vagrant
 
 
 ## 📫 Comment me contacter
 
-- **Email**: habib.asghar.mehmood@gmail.com
+- **Email** : [habib.asghar.mehmood@gmail.com](mailto:habib.asghar.mehmood@gmail.com)
 
 
 ## 💬 Langues
@@ -31,4 +31,4 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par les systèmes et les r�
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet ou simplement discuter de technologie.
 
-https://gpvc.arturio.dev/HabibAsgharM
+![Profile views](https://gpvc.arturio.dev/HabibAsgharM)
