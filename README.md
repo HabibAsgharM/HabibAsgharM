@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Habib!
+# 👋 Bonjour, je suis Habib !
 
 Bienvenue sur mon profil GitHub! Je suis passionné par les systèmes et les réseaux, et je me spécialise dans la configuration de serveurs, la sécurité réseau et l'automatisation des tâches. 
 
