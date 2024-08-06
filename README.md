@@ -2,15 +2,11 @@
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par les systèmes et les réseaux, et je me spécialise dans la configuration de serveurs, la sécurité réseau et l'automatisation des tâches. 
 
-
-
 ## 🌐 À propos de moi
 
 - 💼 Actuellement freelance en systèmes et réseaux.
 - 💡 Intéressé par l'optimisation des infrastructures informatiques et l'innovation technologique.
 - 🌱 Toujours en train d'apprendre de nouvelles technologies et d'améliorer mes compétences.
-
-
 
 ## 🚀 Compétences Techniques
 
@@ -20,13 +16,9 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par les systèmes et les r�
 - **Sécurité** : Configurations de pare-feu, systèmes de détection d'intrusion, VPN
 - **Outils de Développement** : Git, Docker, Vagrant
 
-
-
 ## 📫 Comment me contacter
 
 - **Email** : [habib.asghar.mehmood@gmail.com](mailto:habib.asghar.mehmood@gmail.com)
-
-
 
 ## 💬 Langues
 
