@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Habib !
 
-Bienvenue sur mon profil GitHub! Je suis passionné par les systèmes et les réseaux, et je me spécialise dans la configuration de serveurs, la sécurité réseau et l'automatisation des tâches. 
+Bienvenue sur mon profil GitHub ! Je suis passionné par les systèmes et les réseaux, et je me spécialise dans la configuration de serveurs, la sécurité réseau et l'automatisation des tâches. 
 
 ## 🌐 À propos de moi
 
@@ -25,6 +25,6 @@ Bienvenue sur mon profil GitHub! Je suis passionné par les systèmes et les ré
 - Français (Natif)
 - Anglais (Courant)
 
-Merci de visiter mon profil GitHub! N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet ou simplement discuter de technologie.
+Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet ou simplement discuter de technologie.
 
 https://gpvc.arturio.dev/HabibAsgharM
